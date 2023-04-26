@@ -27,7 +27,7 @@
     /**
      * default scope for all components in workspace.
      **/
-    "defaultScope": "org.scope-name"
+    "defaultScope": "zengchaowu.doraemon"
   },
   /**
    * main configuration for component dependency resolution.
@@ -79,5 +79,5 @@
       // "teambit.react/react": { }
     }
   },
-  "org.scope-name/hello-world-app": {}
+  "zengchaowu.doraemon/hello-world-app": {}
 }

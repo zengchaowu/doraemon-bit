@@ -12,7 +12,6 @@
     "get-hello-world": {
         "scope": "",
         "version": "",
-        "defaultScope": "org.scope-name",
         "mainFile": "index.ts",
         "rootDir": "scope-name/get-hello-world",
         "config": {
@@ -38,7 +37,6 @@
     "hello-world-app": {
         "scope": "",
         "version": "",
-        "defaultScope": "org.scope-name",
         "mainFile": "index.ts",
         "rootDir": "scope-name/hello-world-app",
         "config": {
@@ -65,7 +63,6 @@
     "ui/hello-world": {
         "scope": "",
         "version": "",
-        "defaultScope": "org.scope-name",
         "mainFile": "index.ts",
         "rootDir": "scope-name/ui/hello-world",
         "config": {
