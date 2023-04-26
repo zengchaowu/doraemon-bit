@@ -10,19 +10,19 @@
 
 {
     "get-hello-world": {
-        "scope": "",
+        "scope": "zengchaowu.doraemon",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "scope-name/get-hello-world"
     },
     "hello-world-app": {
-        "scope": "",
+        "scope": "zengchaowu.doraemon",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "scope-name/hello-world-app"
     },
     "ui/hello-world": {
-        "scope": "",
+        "scope": "zengchaowu.doraemon",
         "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "scope-name/ui/hello-world"
